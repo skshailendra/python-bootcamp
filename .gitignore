@@ -12,3 +12,7 @@ venv/
 
 # OS-specific files
 .DS_Store
+*.ipynb
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
